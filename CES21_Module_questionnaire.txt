@@ -1,0 +1,160 @@
+=====================================================================================================================
+Survey Questionnaire
+(Extracted from the 2021 Cooperative Election Study (CES, 
+   formerly the Cooperative Congressional Election Study, or CCES) Module)
+
+* Note:   Our module is omnibus, and therefore, we cannot make publicly available other researchers' questions.
+          Only the questions that I used for my research are included in this codebook.
+
+Total Number of Interviews:   1,000 individuals
+Field Period:                 November 03, 2021 - December 07, 2021
+
+=====================================================================================================================
+           Variable List                                 
+=====================================================================================================================
+
+caseid                        Case ID
+teamweight                    Team Weight
+CCEStake                      Consent to participate
+birthyr                       Birth Year
+gender4                       Gender - inclusive
+educ                          Education
+race                          Race
+inputstate                    State of Residence
+CC21_310a                     Know Party in Government -- U.S. House of 
+                              Representatives
+CC21_310b                     Know Party in Government -- U.S. Senate
+newsint                       Political Interest
+faminc_new                    Family income
+UTB453                        Political Protest
+UTB431                        Future Policies
+UTB454                        News Article Preference A
+UTB455                        News Article Preference B
+UTB434a                       Govt Policies to Solve Discrimination A
+UTB435a                       Participate A
+UTB436a                       Govt Policies to Solve Discrimination B
+UTB437a                       Participate B
+
+=====================================================================================================================
+           Survey Questionnaire - In the 2021 CES Module
+=====================================================================================================================
+* Note:   Variables not listed here can be obtained from the 2021 CES Common Content Datatset, which is soon to
+          be publicly available on the CES website: https://cces.gov.harvard.edu/.                       
+=====================================================================================================================
+Name:          UTB453
+Description:   Political Protest
+
+  SINGLE CHOICE
+
+  Thinking back over the past four years, how many times have you participated in a political protest, march, or 
+  demonstration?
+
+	1	Never
+	2	Once
+	3	Twice
+	4	More than 3 times
+
+=====================================================================================================================
+Name:          UTA431
+Description:   Future Policies
+
+  SINGLE CHOICE
+
+  What do you think governmental policies that prohibit discrimination based on race and color should look like in 
+  the future? 
+
+	1	The government should implement less policies
+	2	The policies are fine as is
+	3	The government should implement more policies
+	4	Not sure/no preference
+
+=====================================================================================================================
+Name:          UTB454
+Description:   News Article Preference A
+
+  SINGLE CHOICE
+  Randomize the order of options 1, 2, and 3. Keep 4 last. 
+
+  If you were given news articles with the following titles, which one would you choose to read first?
+
+	1	“US government explains its recent immigration policies”
+	2	“How your friend from abroad can’t work in the US...”
+	3	“The oldest tiger in a South African zoo attacks a 6-year-old tourist”
+	4	{Fixed}Not sure/no preference 
+
+=====================================================================================================================
+Name:          UTB455
+Description:   News Article Preference B
+
+  SINGLE CHOICE
+  Randomize the order of options 1, 2, and 3. Keep 4 last. 
+
+  If you were given news articles with the following titles, which one would you choose to read first?
+
+	1	“A timeline of US government and issues around social justice”
+	2	“An elderly protester shoved to the ground by the police could be a ‘set up’ Says who?”
+	3	“A giraffe found dead after escaping from Madagascar Zoo”
+	4	{Fixed}Not sure/no preference
+
+=====================================================================================================================
+Name:          UTB434a
+Description:   Govt Policies to Solve Discrimination A
+
+  SINGLE CHOICE
+  Half of the sample sees UTB434a and UTB435a, half sees UTB436a and UTB437a
+
+  The soaring number of black Americans killed by the police re-confirms the deep-seated racial inequalities in 
+  America. This systemic social injustice pairs with excessive law enforcement and insufficient healthcare in 
+  communities of color.
+
+  Would you say more governmental policies to solve racial discrimination should be implemented?
+
+	1	Yes
+	2	No
+	3	Not sure/No Preference
+
+=====================================================================================================================
+Name:          UTB435a  
+Description:   Participate A
+
+  SINGLE CHOICE
+  Half of the sample sees UTB434a and UTB435a, half sees UTB436a and UTB437a
+
+  Would you be willing to participate in a protest, march, or demonstration to show your opinion on this issue?
+
+	1	Yes
+	2	No
+	3	Not sure/No preference
+
+=====================================================================================================================
+Name:          UTB436a
+Description:   Govt Policies to Solve Discrimination B
+
+  SINGLE CHOICE
+  Half of the sample sees UTB434a and UTB435a, half sees UTB436a and UTB437a
+
+  Michael, a 38-year-old black man, was killed by a police officer after being arrested for purchasing milk with 
+  counterfeit money; the officer pinned him to the ground for ten minutes despite people shouting to stop. Michael 
+  had four children to raise. 
+
+  Would you say more governmental policies to solve racial discrimination should be implemented? 
+
+	1	Yes
+	2	No
+	3	Not sure/No Preference
+
+=====================================================================================================================
+Name:          UTB437a  
+Description:   Participate B
+
+  SINGLE CHOICE
+  Half of the sample sees UTB434a and UTB435a, half sees UTB436a and UTB437a
+
+  Would you be willing to participate in a protest, march, or demonstration to show your opinion on this issue?
+
+	1	Yes
+	2	No
+	3	Not sure/No preference
+
+=====================================================================================================================
+===================================================== END ===========================================================
